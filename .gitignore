@@ -1,0 +1,23 @@
+# Compilados Java
+*.class
+
+# Logs
+*.log
+*.out
+
+# Configurações do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# IDEs
+.idea/
+.project
+.classpath
+.settings/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
